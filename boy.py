@@ -90,7 +90,7 @@ class Run:
 class Boy:
     def __init__(self):
 
-        self.ball_count = 10
+        self.ball_count = 0
 
         self.font = load_font('ENCR10B.TTF', 16)
 
